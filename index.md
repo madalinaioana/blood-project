@@ -76,7 +76,7 @@ In Romania, we found the websites www.donezsange.ro and www.ctsbucuresti.ro. The
 
 ### Donez 450
 
-  Donez450 (ttps://donez450.ro/) is a national online project that aims to facilitate the blood donation process by mediating communication between blood transfusion centers in Romania and potential donors, using email or sms notifications.
+  Donez450 (https://donez450.ro/) is a national online project that aims to facilitate the blood donation process by mediating communication between blood transfusion centers in Romania and potential donors, using email or sms notifications.
 They provide information about why you should donate, where you can donate, what are the conditions you have to meet in order to donate and how you can enter the active community of those who donate in Romania.
 
 ### Blood Donor
