@@ -35,9 +35,13 @@ Welcome to Blood donation app!
 
 ### Oana Stefanescu
 
-  e-mail:
+  I am Oana, the tester of this project.
+  My responsibilities are to conduct automated and manual tests in order to make sure that the software is compliant with the business requirements and is ready for deployment.Also, on a daily basis I check the automated suite of tests to make sure that all the flows of our application have not been broken by the new developed tasks.For the automated testing I use Fitnesse and for the manual tests I always write a series of test cases.
+  
+  e-mail: oana_m_stefanescu@yahoo.com
+  
+  phone number: +40 746 107 071
 
-  phone number:
 
 # Why do we need an application in the donation of blood field?
 
