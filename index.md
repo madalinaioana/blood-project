@@ -7,6 +7,7 @@ Welcome to Blood donation app!
 ### Madalina Necsoiu
 
   Hi, people! I am Madalina, the product owner of this project. My main responsibility in this startup is to ensure the management of the product by collecting all the requirements for it and putting them in the Product Backlog as stories. Also, I evaluate the stories after completion and I take the decision if a story is accepted or not.
+  
   The second role involves project management. I have the responsibility to deliver project scope within an established time and budget. This role involves being the leader of this team and I must ensure communication between team members and between stakeholders and team members. Another task of mine is monitoring and controlling, meaning reviewing the progress and performance of the project.
 
   e-mail: madalina.necsoiu96@gmail.com
