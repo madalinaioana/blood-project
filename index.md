@@ -14,7 +14,7 @@ Team members:
 
 - Madalina Cartes:
 
-  I am the second Madalina in this bussiness (:D), the front-end developer of this project.
+  I am Madalina (the second one in this bussiness :D), the front-end developer of this project.
   I am responsible for implementing visual elements that users see and interact with in a web application. I build, validate and maintain web page templates using clean code that adheres to current Web standards. I enforce best practices for content layout, navigation and site architecture for our web application. I work closely with my colleague Alice and develop knowledge about web front-end development and user experience. 
   I am writing code in TypeScript, using the Angular framework, HTML, CSS, Bootstrap.
 
