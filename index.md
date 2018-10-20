@@ -11,6 +11,7 @@ Welcome to Blood donation app!
   The second role involves project management. I have the responsibility to deliver project scope within an established time and budget. This role involves being the leader of this team and I must ensure communication between team members and between stakeholders and team members. Another task of mine is monitoring and controlling, meaning reviewing the progress and performance of the project.
 
   e-mail: madalina.necsoiu96@gmail.com
+  
   phone number: +40 768 720 006
 
 ### Madalina Cartes:
