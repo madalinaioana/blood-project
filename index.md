@@ -60,9 +60,10 @@ Also we want to let them know when their blood is used, because it's a great fee
 
   For people who donate the first time there is an information page where they can see the steps they have to follow and what is recommended to do before the donation.
 
+
 # Customer segments
 
-  <app name> is a product targeting blood donation in the medical industry. This product is designated in the **multi-side market** with three types of clients: clinics / hospitals (private or public), individuals and research laboratories. **Hospitals** are our most important customer, because in order to be able to expose their blood level data, they have to pay a monthly sum of money. **Individuals** are also important because the amount of blood donated affects the decision of hospitals to continue contributing to the application. **Research laboratories** could have the opportunity to inform people who want to contribute with blood in a simple way by using out notification system.
+  **app name** is a product targeting blood donation in the medical industry. This product is designated in the **multi-side market** with three types of clients: clinics/hospitals (private or public), individuals and research laboratories. **Hospitals** are our most important customer, because in order to be able to expose their blood level data, they have to pay a monthly sum of money. **Individuals** are also important because the amount of blood donated affects the decision of hospitals to continue contributing to the application. **Research laboratories** could have the opportunity to inform people who want to contribute with blood in a simple way by using out notification system.
 
 
 # Competition
@@ -87,7 +88,7 @@ We don't come with different material rewards (such as meal vouchers or free tra
 Also we want them to be informed about the blood donation process and to know how to reach the nearest center so our application will provide them these information.
 
   Our application can be extended, as the cities will be into a database and it will be possible to use it internationally.
-These are the advantages <app name> has, compared with the others in the list above. Together, we have the resources to be the support that the medical system in Romania needs for blood donation to no longer be a problem.
+These are the advantages **app name** has, compared with the others in the list above. Together, we have the resources to be the support that the medical system in Romania needs for blood donation to no longer be a problem.
 
 # Key metrics
 
